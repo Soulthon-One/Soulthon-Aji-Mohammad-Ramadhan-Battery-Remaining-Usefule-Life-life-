@@ -1,0 +1,19 @@
+1. MAE/MSE harus dekat atau kurang dari 1?
+Tidak ada patokan harus di bawah 1. Nilainya bergantung pada skala target. Kalau RUL dalam ratusan siklus, MAE = 10 siklus sudah bagus. Semakin kecil semakin baik. Bandingkan dengan baseline (prediksi rata-rata) dan antar model, atau pakai RMSE agar satuannya sama dengan target.
+2. R² harus lebih dari 1 atau kurang dari 1?
+Maksimal 1, jadi tidak pernah lebih dari 1. Makin mendekati 1 makin baik. R² = 0 berarti sama dengan prediksi rata-rata, dan bisa negatif jika model lebih buruk dari itu.
+3. Algoritma regresi dan peruntukannya
+Linear Regression: data kecil sampai menengah, hubungan linear, cepat dan mudah diinterpretasi
+Ridge/Lasso/ElasticNet: linear dengan regularisasi, untuk fitur banyak atau berkorelasi (multikolinearitas)
+Polynomial Regression: hubungan non-linear sederhana
+SVR: dataset kecil sampai menengah, non-linear, sensitif terhadap skala fitur
+KNN Regressor: data kecil, sederhana, lambat saat prediksi pada data besar
+Decision Tree: mudah diinterpretasi, tapi mudah overfitting
+Random Forest: non-linear, tangguh terhadap noise, cocok untuk data tabular
+Gradient Boosting (XGBoost/LightGBM): akurasi tinggi di data tabular, skala menengah sampai besar
+MLP/LSTM/GRU: data besar atau deret waktu (real-time, degradasi baterai), butuh komputasi lebih
+4. Faktor pemilihan algoritma
+Jenis data (tabular atau deret waktu), ukuran dataset, linearitas, serta kebutuhan real-time, interpretabilitas, dan sensitivitas domain.
+5. Referensi
+Untuk teori dasar, bisa pakai buku The Elements of Statistical Learning (Hastie, Tibshirani, Friedman) dan Pattern Recognition and Machine Learning (Bishop). Untuk artikel ilmiah 2022-2026, cari di Google Scholar atau Scopus dengan kata kunci "battery remaining useful life prediction machine learning regression". Jurnal yang relevan misalnya Journal of Energy Storage dan Applied Energy.
+Soal Iqsa (konsep dasar klasifikasi), tanyakan saja ke saya kalau mau dibahas juga. Mau saya carikan daftar artikel 2022-2026 lewat pencarian?https://github.com/Soulthon-One/Soulthon-Aji-Mohammad-Ramadhan-Battery-Remaining-Usefule-Life-life-
