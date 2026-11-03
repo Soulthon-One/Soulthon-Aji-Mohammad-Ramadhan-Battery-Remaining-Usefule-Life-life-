@@ -1,0 +1,133 @@
+id,ulasan,harga,kualitas,pengiriman,pelayanan
+1,"Barang cepat rusak dan kualitas jelek, penjualnya ramah dan fast respon",0,1,0,1
+2,"Harga terlalu mahal untuk kualitas segitu, paket telat sampai seminggu, bahannya halus dan rapi",1,1,1,0
+3,Harganya murah banget,1,0,0,0
+5,Pelayanan sangat memuaskan,0,0,0,1
+6,"Pelayanan sangat memuaskan, paket telat sampai seminggu",0,0,1,1
+7,Bahannya halus dan rapi,0,1,0,0
+8,"Kurir ramah dan paket aman, admin lama balas chat",0,0,1,1
+9,"Kurir ramah dan paket aman, harganya murah banget",1,0,1,0
+10,"Penjualnya ramah dan fast respon, harga terlalu mahal untuk kualitas segitu, bahannya halus dan rapi",1,1,0,1
+11,Harga sesuai isi dompet,1,0,0,0
+12,"Pengiriman cepat sampai besok, harganya murah banget, barang cepat rusak dan kualitas jelek",1,1,1,0
+13,"Pelayanan sangat memuaskan, paket telat sampai seminggu, barang cepat rusak dan kualitas jelek",0,1,1,1
+14,"Penjualnya ramah dan fast respon, kurir ramah dan paket aman",0,0,1,1
+15,Penjualnya ramah dan fast respon,0,0,0,1
+16,Admin lama balas chat,0,0,0,1
+17,"Bahannya halus dan rapi, penjualnya ramah dan fast respon",0,1,0,1
+20,"Penjualnya ramah dan fast respon, harganya murah banget",1,0,0,1
+22,"Bahannya halus dan rapi, admin lama balas chat, paket telat sampai seminggu",0,1,1,1
+23,"Barang cepat rusak dan kualitas jelek, harga sesuai isi dompet",1,1,0,0
+25,Paket telat sampai seminggu,0,0,1,0
+26,"Kurir ramah dan paket aman, harga terlalu mahal untuk kualitas segitu, pelayanan sangat memuaskan",1,0,1,1
+27,"Harga terlalu mahal untuk kualitas segitu, kurir ramah dan paket aman",1,0,1,0
+29,"Kurir ramah dan paket aman, bahannya halus dan rapi, harganya murah banget",1,1,1,0
+31,Kurir ramah dan paket aman,0,0,1,0
+34,"Admin lama balas chat, paket telat sampai seminggu, barang cepat rusak dan kualitas jelek",0,1,1,1
+35,"Bahannya halus dan rapi, harga sesuai isi dompet",1,1,0,0
+36,"Kurir ramah dan paket aman, harga terlalu mahal untuk kualitas segitu",1,0,1,0
+37,"Bahannya halus dan rapi, paket telat sampai seminggu, harga sesuai isi dompet",1,1,1,0
+38,"Harganya murah banget, kualitas barangnya bagus dan awet, kurir ramah dan paket aman",1,1,1,0
+41,"Harganya murah banget, kurir ramah dan paket aman",1,0,1,0
+43,"Paket telat sampai seminggu, harga sesuai isi dompet",1,0,1,0
+45,"Harganya murah banget, bahannya halus dan rapi, penjualnya ramah dan fast respon",1,1,0,1
+46,"Penjualnya ramah dan fast respon, bahannya halus dan rapi",0,1,0,1
+48,"Harga terlalu mahal untuk kualitas segitu, pengiriman cepat sampai besok",1,0,1,0
+49,Barang cepat rusak dan kualitas jelek,0,1,0,0
+50,"Admin lama balas chat, bahannya halus dan rapi",0,1,0,1
+51,"Barang cepat rusak dan kualitas jelek, admin lama balas chat, pengiriman cepat sampai besok",0,1,1,1
+52,"Admin lama balas chat, harga terlalu mahal untuk kualitas segitu, bahannya halus dan rapi",1,1,0,1
+53,"Harga sesuai isi dompet, pelayanan sangat memuaskan",1,0,0,1
+55,"Pengiriman cepat sampai besok, barang cepat rusak dan kualitas jelek",0,1,1,0
+56,"Pelayanan sangat memuaskan, bahannya halus dan rapi, harga sesuai isi dompet",1,1,0,1
+61,"Harga terlalu mahal untuk kualitas segitu, pengiriman cepat sampai besok, bahannya halus dan rapi",1,1,1,0
+62,"Pengiriman cepat sampai besok, harganya murah banget",1,0,1,0
+63,"Harga sesuai isi dompet, pelayanan sangat memuaskan, pengiriman cepat sampai besok",1,0,1,1
+66,"Barang cepat rusak dan kualitas jelek, harga terlalu mahal untuk kualitas segitu, paket telat sampai seminggu",1,1,1,0
+68,"Pengiriman cepat sampai besok, kualitas barangnya bagus dan awet",0,1,1,0
+69,"Harga terlalu mahal untuk kualitas segitu, barang cepat rusak dan kualitas jelek",1,1,0,0
+72,"Barang cepat rusak dan kualitas jelek, pengiriman cepat sampai besok",0,1,1,0
+73,"Harga sesuai isi dompet, admin lama balas chat",1,0,0,1
+74,Harga terlalu mahal untuk kualitas segitu,1,0,0,0
+75,"Harganya murah banget, penjualnya ramah dan fast respon",1,0,0,1
+76,"Paket telat sampai seminggu, kualitas barangnya bagus dan awet, harga sesuai isi dompet",1,1,1,0
+79,"Harga sesuai isi dompet, paket telat sampai seminggu",1,0,1,0
+80,"Pelayanan sangat memuaskan, kualitas barangnya bagus dan awet",0,1,0,1
+81,"Bahannya halus dan rapi, harga terlalu mahal untuk kualitas segitu, penjualnya ramah dan fast respon",1,1,0,1
+82,"Paket telat sampai seminggu, kualitas barangnya bagus dan awet, pelayanan sangat memuaskan",0,1,1,1
+84,"Harga terlalu mahal untuk kualitas segitu, bahannya halus dan rapi",1,1,0,0
+90,Kualitas barangnya bagus dan awet,0,1,0,0
+92,"Kualitas barangnya bagus dan awet, pelayanan sangat memuaskan, kurir ramah dan paket aman",0,1,1,1
+93,"Admin lama balas chat, pengiriman cepat sampai besok",0,0,1,1
+94,Pengiriman cepat sampai besok,0,0,1,0
+95,"Harganya murah banget, kualitas barangnya bagus dan awet",1,1,0,0
+96,"Pelayanan sangat memuaskan, kurir ramah dan paket aman, harganya murah banget",1,0,1,1
+103,"Kualitas barangnya bagus dan awet, pengiriman cepat sampai besok",0,1,1,0
+105,"Barang cepat rusak dan kualitas jelek, harga terlalu mahal untuk kualitas segitu, kurir ramah dan paket aman",1,1,1,0
+106,"Kurir ramah dan paket aman, harga sesuai isi dompet",1,0,1,0
+107,"Kualitas barangnya bagus dan awet, pelayanan sangat memuaskan, harganya murah banget",1,1,0,1
+108,"Harga terlalu mahal untuk kualitas segitu, penjualnya ramah dan fast respon",1,0,0,1
+109,"Barang cepat rusak dan kualitas jelek, kurir ramah dan paket aman",0,1,1,0
+111,"Harga sesuai isi dompet, pelayanan sangat memuaskan, paket telat sampai seminggu",1,0,1,1
+115,"Kurir ramah dan paket aman, kualitas barangnya bagus dan awet, penjualnya ramah dan fast respon",0,1,1,1
+117,"Penjualnya ramah dan fast respon, harga sesuai isi dompet",1,0,0,1
+119,"Harga terlalu mahal untuk kualitas segitu, paket telat sampai seminggu",1,0,1,0
+120,"Harganya murah banget, pengiriman cepat sampai besok",1,0,1,0
+122,"Bahannya halus dan rapi, pelayanan sangat memuaskan",0,1,0,1
+127,"Paket telat sampai seminggu, harga terlalu mahal untuk kualitas segitu",1,0,1,0
+132,"Pengiriman cepat sampai besok, bahannya halus dan rapi",0,1,1,0
+133,"Barang cepat rusak dan kualitas jelek, harganya murah banget",1,1,0,0
+135,"Kualitas barangnya bagus dan awet, penjualnya ramah dan fast respon",0,1,0,1
+136,"Admin lama balas chat, harganya murah banget",1,0,0,1
+144,"Bahannya halus dan rapi, pengiriman cepat sampai besok",0,1,1,0
+146,"Penjualnya ramah dan fast respon, bahannya halus dan rapi, paket telat sampai seminggu",0,1,1,1
+148,"Kualitas barangnya bagus dan awet, kurir ramah dan paket aman",0,1,1,0
+151,"Harga terlalu mahal untuk kualitas segitu, bahannya halus dan rapi, pengiriman cepat sampai besok",1,1,1,0
+157,"Harganya murah banget, bahannya halus dan rapi, paket telat sampai seminggu",1,1,1,0
+159,"Harganya murah banget, paket telat sampai seminggu",1,0,1,0
+164,"Harga terlalu mahal untuk kualitas segitu, kualitas barangnya bagus dan awet",1,1,0,0
+165,"Harganya murah banget, paket telat sampai seminggu, penjualnya ramah dan fast respon",1,0,1,1
+166,"Harga sesuai isi dompet, kurir ramah dan paket aman, bahannya halus dan rapi",1,1,1,0
+169,"Harga terlalu mahal untuk kualitas segitu, admin lama balas chat",1,0,0,1
+170,"Pelayanan sangat memuaskan, pengiriman cepat sampai besok",0,0,1,1
+171,"Kurir ramah dan paket aman, barang cepat rusak dan kualitas jelek",0,1,1,0
+179,"Barang cepat rusak dan kualitas jelek, admin lama balas chat, kurir ramah dan paket aman",0,1,1,1
+182,"Kurir ramah dan paket aman, bahannya halus dan rapi, admin lama balas chat",0,1,1,1
+185,"Barang cepat rusak dan kualitas jelek, admin lama balas chat",0,1,0,1
+187,"Pelayanan sangat memuaskan, harganya murah banget",1,0,0,1
+188,"Kurir ramah dan paket aman, harga sesuai isi dompet, pelayanan sangat memuaskan",1,0,1,1
+191,"Barang cepat rusak dan kualitas jelek, penjualnya ramah dan fast respon, pengiriman cepat sampai besok",0,1,1,1
+192,"Harga terlalu mahal untuk kualitas segitu, pengiriman cepat sampai besok, barang cepat rusak dan kualitas jelek",1,1,1,0
+197,"Paket telat sampai seminggu, admin lama balas chat, bahannya halus dan rapi",0,1,1,1
+204,"Barang cepat rusak dan kualitas jelek, pengiriman cepat sampai besok, harganya murah banget",1,1,1,0
+207,"Kurir ramah dan paket aman, pelayanan sangat memuaskan",0,0,1,1
+211,"Kurir ramah dan paket aman, kualitas barangnya bagus dan awet",0,1,1,0
+214,"Pelayanan sangat memuaskan, harga sesuai isi dompet",1,0,0,1
+217,"Admin lama balas chat, harga sesuai isi dompet, paket telat sampai seminggu",1,0,1,1
+220,"Harga sesuai isi dompet, barang cepat rusak dan kualitas jelek",1,1,0,0
+227,"Admin lama balas chat, paket telat sampai seminggu",0,0,1,1
+228,"Harga sesuai isi dompet, bahannya halus dan rapi",1,1,0,0
+229,"Harga sesuai isi dompet, kualitas barangnya bagus dan awet, penjualnya ramah dan fast respon",1,1,0,1
+230,"Penjualnya ramah dan fast respon, paket telat sampai seminggu",0,0,1,1
+233,"Kurir ramah dan paket aman, penjualnya ramah dan fast respon",0,0,1,1
+234,"Kualitas barangnya bagus dan awet, kurir ramah dan paket aman, harganya murah banget",1,1,1,0
+235,"Paket telat sampai seminggu, bahannya halus dan rapi, pelayanan sangat memuaskan",0,1,1,1
+238,"Paket telat sampai seminggu, barang cepat rusak dan kualitas jelek, penjualnya ramah dan fast respon",0,1,1,1
+240,"Barang cepat rusak dan kualitas jelek, harga terlalu mahal untuk kualitas segitu, pengiriman cepat sampai besok",1,1,1,0
+244,"Pengiriman cepat sampai besok, harga sesuai isi dompet, kualitas barangnya bagus dan awet",1,1,1,0
+255,"Kualitas barangnya bagus dan awet, kurir ramah dan paket aman, harga terlalu mahal untuk kualitas segitu",1,1,1,0
+259,"Barang cepat rusak dan kualitas jelek, pengiriman cepat sampai besok, harga sesuai isi dompet",1,1,1,0
+261,"Admin lama balas chat, bahannya halus dan rapi, harganya murah banget",1,1,0,1
+263,"Kualitas barangnya bagus dan awet, paket telat sampai seminggu",0,1,1,0
+269,"Paket telat sampai seminggu, penjualnya ramah dan fast respon",0,0,1,1
+270,"Penjualnya ramah dan fast respon, kualitas barangnya bagus dan awet, paket telat sampai seminggu",0,1,1,1
+271,"Bahannya halus dan rapi, harga terlalu mahal untuk kualitas segitu",1,1,0,0
+273,"Harga terlalu mahal untuk kualitas segitu, admin lama balas chat, kurir ramah dan paket aman",1,0,1,1
+279,"Penjualnya ramah dan fast respon, barang cepat rusak dan kualitas jelek, pengiriman cepat sampai besok",0,1,1,1
+283,"Harga terlalu mahal untuk kualitas segitu, pelayanan sangat memuaskan",1,0,0,1
+286,"Admin lama balas chat, bahannya halus dan rapi, harga terlalu mahal untuk kualitas segitu",1,1,0,1
+287,"Paket telat sampai seminggu, pelayanan sangat memuaskan",0,0,1,1
+288,"Harganya murah banget, admin lama balas chat, barang cepat rusak dan kualitas jelek",1,1,0,1
+289,"Admin lama balas chat, kualitas barangnya bagus dan awet",0,1,0,1
+294,"Harga terlalu mahal untuk kualitas segitu, bahannya halus dan rapi, paket telat sampai seminggu",1,1,1,0
+295,"Pengiriman cepat sampai besok, kualitas barangnya bagus dan awet, pelayanan sangat memuaskan",0,1,1,1

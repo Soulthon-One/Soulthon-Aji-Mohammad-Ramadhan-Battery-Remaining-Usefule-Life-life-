@@ -1,0 +1,102 @@
+id,teks,label
+1,"Pinjaman cair Rp2 juta tanpa jaminan, daftar di bit.ly/promo88",spam
+2,Ibu minta dibelikan minyak goreng sepulang kerja,bukan_spam
+4,"Anda terpilih jadi pemenang undian Lazada, transfer biaya admin dulu",spam
+5,"Nanti malam makan di rumah makan padang yuk, sama anak-anak",bukan_spam
+6,"Dapatkan pulsa gratis Rp500 ribu, kirim data ke wa.me/628123456",spam
+7,"Kartu kredit Anda diblokir, verifikasi segera di wa.me/628123456",spam
+8,"Besok rapat jam 9 di ruang C3, jangan telat ya",bukan_spam
+9,Tolong kirim tugas Kalkulus sebelum jam 13 nanti,bukan_spam
+10,"Pinjaman cair Rp500 ribu tanpa jaminan, daftar di bit.ly/promo88",spam
+11,"Dapatkan pulsa gratis Rp2 juta, kirim data ke wa.me/628123456",spam
+12,"Besok rapat jam 9 di ruang Aula, jangan telat ya",bukan_spam
+13,"Dapatkan pulsa gratis Rp5 juta, kirim data ke wa.me/628123456",spam
+14,"Besok rapat jam 10 di ruang C3, jangan telat ya",bukan_spam
+15,"Anda terpilih jadi pemenang undian Shopee, transfer biaya admin dulu",spam
+16,"Terima kasih ya sudah bantu kemarin, sangat membantu",bukan_spam
+17,Selamat! Anda memenangkan Rp10 juta dari Tokopedia. Klik tinyurl.com/cair untuk klaim sekarang,spam
+18,"Anda terpilih jadi pemenang undian Tokopedia, transfer biaya admin dulu",spam
+20,"Dapatkan pulsa gratis Rp500 ribu, kirim data ke tinyurl.com/cair",spam
+21,"Dapatkan pulsa gratis Rp500 ribu, kirim data ke klik.id/hadiah",spam
+22,Selamat! Anda memenangkan Rp5 juta dari Bank ABC. Klik tinyurl.com/cair untuk klaim sekarang,spam
+23,"Aku sudah sampai kampus, kamu di mana?",bukan_spam
+24,"Dapatkan pulsa gratis Rp5 juta, kirim data ke klik.id/hadiah",spam
+26,"Dapatkan pulsa gratis Rp10 juta, kirim data ke tinyurl.com/cair",spam
+27,"Nanti malam makan di warung bakso yuk, sama anak-anak",bukan_spam
+28,"Anda terpilih jadi pemenang undian Bank ABC, transfer biaya admin dulu",spam
+29,Selamat! Anda memenangkan Rp2 juta dari Tokopedia. Klik tinyurl.com/cair untuk klaim sekarang,spam
+30,"Anda terpilih jadi pemenang undian Telkomsel, transfer biaya admin dulu",spam
+31,"PROMO Shopee: diskon 50% hari ini saja, hubungi bit.ly/promo88",spam
+32,"Dapatkan pulsa gratis Rp2 juta, kirim data ke klik.id/hadiah",spam
+33,Ibu minta dibelikan telur sepulang kerja,bukan_spam
+34,"Kartu kredit Anda diblokir, verifikasi segera di tinyurl.com/cair",spam
+38,"PROMO Telkomsel: diskon 70% hari ini saja, hubungi tinyurl.com/cair",spam
+40,Ibu minta dibelikan sabun sepulang kerja,bukan_spam
+45,Selamat! Anda memenangkan Rp10 juta dari Lazada. Klik wa.me/628123456 untuk klaim sekarang,spam
+48,"Besok rapat jam 15 di ruang Aula, jangan telat ya",bukan_spam
+50,"Pinjaman cair Rp500 ribu tanpa jaminan, daftar di tinyurl.com/cair",spam
+56,Tolong kirim tugas Machine Learning sebelum jam 10 nanti,bukan_spam
+57,"PROMO Shopee: diskon 50% hari ini saja, hubungi tinyurl.com/cair",spam
+60,Ibu minta dibelikan beras sepulang kerja,bukan_spam
+61,"Besok rapat jam 13 di ruang Aula, jangan telat ya",bukan_spam
+63,"PROMO Lazada: diskon 70% hari ini saja, hubungi klik.id/hadiah",spam
+66,"Besok rapat jam 10 di ruang B2, jangan telat ya",bukan_spam
+67,"PROMO Bank ABC: diskon 50% hari ini saja, hubungi tinyurl.com/cair",spam
+71,"PROMO Telkomsel: diskon 70% hari ini saja, hubungi bit.ly/promo88",spam
+72,"Nanti malam makan di kafe depan yuk, sama anak-anak",bukan_spam
+78,Tolong kirim tugas Basis Data sebelum jam 10 nanti,bukan_spam
+80,Selamat! Anda memenangkan Rp10 juta dari Bank ABC. Klik bit.ly/promo88 untuk klaim sekarang,spam
+83,"Kartu kredit Anda diblokir, verifikasi segera di bit.ly/promo88",spam
+91,"Pinjaman cair Rp5 juta tanpa jaminan, daftar di wa.me/628123456",spam
+92,"Pinjaman cair Rp5 juta tanpa jaminan, daftar di klik.id/hadiah",spam
+95,"Besok rapat jam 13 di ruang C3, jangan telat ya",bukan_spam
+97,"Pinjaman cair Rp10 juta tanpa jaminan, daftar di klik.id/hadiah",spam
+99,"PROMO Tokopedia: diskon 70% hari ini saja, hubungi bit.ly/promo88",spam
+100,Selamat! Anda memenangkan Rp10 juta dari Telkomsel. Klik klik.id/hadiah untuk klaim sekarang,spam
+101,"Besok rapat jam 8 di ruang B2, jangan telat ya",bukan_spam
+107,"Kartu kredit Anda diblokir, verifikasi segera di klik.id/hadiah",spam
+108,"Pinjaman cair Rp500 ribu tanpa jaminan, daftar di wa.me/628123456",spam
+109,"Dapatkan pulsa gratis Rp2 juta, kirim data ke bit.ly/promo88",spam
+110,Tolong kirim tugas Statistika sebelum jam 13 nanti,bukan_spam
+114,"Besok rapat jam 8 di ruang A1, jangan telat ya",bukan_spam
+126,"Dapatkan pulsa gratis Rp10 juta, kirim data ke bit.ly/promo88",spam
+127,Tolong kirim tugas Kalkulus sebelum jam 9 nanti,bukan_spam
+128,Tolong kirim tugas Machine Learning sebelum jam 9 nanti,bukan_spam
+130,"Besok rapat jam 13 di ruang B2, jangan telat ya",bukan_spam
+133,"Dapatkan pulsa gratis Rp10 juta, kirim data ke klik.id/hadiah",spam
+134,Tolong kirim tugas Machine Learning sebelum jam 13 nanti,bukan_spam
+138,Selamat! Anda memenangkan Rp500 ribu dari Tokopedia. Klik bit.ly/promo88 untuk klaim sekarang,spam
+139,"PROMO Tokopedia: diskon 50% hari ini saja, hubungi tinyurl.com/cair",spam
+141,Selamat! Anda memenangkan Rp10 juta dari Telkomsel. Klik tinyurl.com/cair untuk klaim sekarang,spam
+142,"Dapatkan pulsa gratis Rp5 juta, kirim data ke bit.ly/promo88",spam
+143,"Dapatkan pulsa gratis Rp2 juta, kirim data ke tinyurl.com/cair",spam
+145,"Besok rapat jam 8 di ruang C3, jangan telat ya",bukan_spam
+148,Selamat! Anda memenangkan Rp5 juta dari Shopee. Klik wa.me/628123456 untuk klaim sekarang,spam
+154,"Pinjaman cair Rp10 juta tanpa jaminan, daftar di bit.ly/promo88",spam
+156,Selamat! Anda memenangkan Rp10 juta dari Bank ABC. Klik klik.id/hadiah untuk klaim sekarang,spam
+160,Tolong kirim tugas Kalkulus sebelum jam 8 nanti,bukan_spam
+164,"Besok rapat jam 10 di ruang Aula, jangan telat ya",bukan_spam
+171,"Pinjaman cair Rp2 juta tanpa jaminan, daftar di klik.id/hadiah",spam
+173,Selamat! Anda memenangkan Rp2 juta dari Shopee. Klik wa.me/628123456 untuk klaim sekarang,spam
+183,"Pinjaman cair Rp2 juta tanpa jaminan, daftar di tinyurl.com/cair",spam
+188,Tolong kirim tugas Basis Data sebelum jam 13 nanti,bukan_spam
+192,Selamat! Anda memenangkan Rp2 juta dari Lazada. Klik bit.ly/promo88 untuk klaim sekarang,spam
+202,Selamat! Anda memenangkan Rp10 juta dari Lazada. Klik bit.ly/promo88 untuk klaim sekarang,spam
+208,Selamat! Anda memenangkan Rp10 juta dari Tokopedia. Klik wa.me/628123456 untuk klaim sekarang,spam
+218,"Besok rapat jam 10 di ruang A1, jangan telat ya",bukan_spam
+219,Tolong kirim tugas Basis Data sebelum jam 8 nanti,bukan_spam
+220,Tolong kirim tugas Machine Learning sebelum jam 15 nanti,bukan_spam
+227,"Pinjaman cair Rp500 ribu tanpa jaminan, daftar di klik.id/hadiah",spam
+228,"PROMO Lazada: diskon 30% hari ini saja, hubungi tinyurl.com/cair",spam
+229,"PROMO Bank ABC: diskon 70% hari ini saja, hubungi tinyurl.com/cair",spam
+235,Selamat! Anda memenangkan Rp2 juta dari Shopee. Klik tinyurl.com/cair untuk klaim sekarang,spam
+236,Tolong kirim tugas Basis Data sebelum jam 15 nanti,bukan_spam
+246,"Pinjaman cair Rp10 juta tanpa jaminan, daftar di wa.me/628123456",spam
+247,Selamat! Anda memenangkan Rp500 ribu dari Lazada. Klik wa.me/628123456 untuk klaim sekarang,spam
+248,Selamat! Anda memenangkan Rp2 juta dari Lazada. Klik wa.me/628123456 untuk klaim sekarang,spam
+255,Tolong kirim tugas Statistika sebelum jam 9 nanti,bukan_spam
+268,"PROMO Bank ABC: diskon 50% hari ini saja, hubungi klik.id/hadiah",spam
+282,"Pinjaman cair Rp5 juta tanpa jaminan, daftar di bit.ly/promo88",spam
+284,Selamat! Anda memenangkan Rp500 ribu dari Bank ABC. Klik wa.me/628123456 untuk klaim sekarang,spam
+290,Selamat! Anda memenangkan Rp5 juta dari Shopee. Klik bit.ly/promo88 untuk klaim sekarang,spam
+294,Tolong kirim tugas Basis Data sebelum jam 9 nanti,bukan_spam
